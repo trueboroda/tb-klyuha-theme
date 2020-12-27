@@ -729,7 +729,7 @@
       },
       {
         "type": "image",
-        "id": "logo.png",
+        "id": "logo.svg",
         "label": "Logo image",
         "max-width": 450,
         "max-height": 200,
@@ -896,7 +896,7 @@
       },
       {
         "type": "image",
-        "id": "hero-logo.png",
+        "id": "hero-logo.svg",
         "label": "Custom logo image",
         "max-width": 1000,
         "max-height": 1000,
